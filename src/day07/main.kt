@@ -1,7 +1,5 @@
 package day07
 
-import evaluateEquation
-import parseInput
 import java.io.File
 import kotlin.math.pow
 
